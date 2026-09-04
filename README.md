@@ -1,1 +1,22 @@
 # DCS2609_CHUA-HUI-EN_Tutorial.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    
+    <main>
+        <p>This is a paragraph of text displaying visible content to the user.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website</p>
+    </footer>
+</body>
+</html>
